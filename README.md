@@ -1,0 +1,2 @@
+只需在body最後加入chinese_convert.js即可繁中轉簡體
+#demo
